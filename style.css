@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+img{
+    width: 275px;
+    height: 275px;
+}
+
+button{
+    width: 243px;
+    height: 80px;
+}
